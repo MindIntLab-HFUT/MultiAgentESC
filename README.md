@@ -6,26 +6,26 @@ As demonstrated in the Figure, MultiAgentESC consists of three stages. Firstly, 
 
 ## Quick Start
 
-#### 1. 克隆仓库
+#### 1. Clone this project locally
 ```bash
 git clone https://github.com/MindIntLab-HFUT/MultiAgentESC.git
 ```
 
-#### 2. 进入目录
+#### 2. Navigate to the directory
 ```bash
 cd MultiAgentESC
 ```
 
-#### 3. 安装依赖
+#### 3. Set up the environment
 ```bash
 pip install -r requirements.txt
 ```
 
-#### 4. 替换相关路径
+#### 4. Replace the relevant path
 
-替换main.py文件中parse_args()的相关路径
+Replace paths in parse_args() in main.py
 
-#### 5. 执行
+#### 5. Run the Python file run.py
 ```bash
 python main.py
 ```
